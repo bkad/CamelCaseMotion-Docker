@@ -1,0 +1,7 @@
+set Script31337PathAndNameWithoutExtension11=%~dpn0
+set Script31337PathANDNameWITHOUTExtension11=%~dpn0
+set script_31337_path_and_name_without_extension_11=%~dpn0
+set SCRIPT_31337_PATH_AND_NAME_WITHOUT_EXTENSION_11=%~dpn0
+
+
+## Samples
